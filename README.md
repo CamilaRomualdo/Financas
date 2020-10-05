@@ -1,27 +1,18 @@
-# AngularCRUD
+# Finanças
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.24.
+Aplicação desenvolvida para a ajudar o usúario a organizar suas finanças.
 
-## Development server
+![Alt text](src/assets/screenshot/angular-crud-finanças.png?raw=true "Screenshot: Finanças - Angular CRUD")
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Este projeto trata-se de uma API REST com utilização de dados em memória para simulações das operações de CRUD, e é baseado em uma arquitetura Master/Detail padronizada. 
+A apliacação ainda conta com técnicas de OOP para mais produtividade e organização.
 
-## Code scaffolding
+### Algumas das bibliotecas utilizadas:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- angular-imask
+- angular-in-memory-web-api
+- bootstrap
+- chart.js
+- primeng
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+ 
